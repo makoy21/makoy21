@@ -6,7 +6,7 @@ React Native Developer
 
 * 🌍  I'm based in Bulacan, Philippines
 * ✉️  You can contact me at [ferdinand\_mirasol@yahoo.com](mailto:ferdinand_mirasol@yahoo.com)
-* 🧠  I'm learning GraphQL, Machine Learning, Solidity
+* 🧠  I'm learning GraphQL, Data Engineering, Python
 * 🤝  I'm open to collaborating on Crypto, Data Science, React Native
 
 ### Skills
